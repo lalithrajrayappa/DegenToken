@@ -4,7 +4,7 @@ This is my fourth module Eth+Avax submission. I have created a DeFi game which h
 
 ## Description
 
-In this module submission, I have created a smart contract which has all the ERC20 functionalities and an additional redeem function so that the items in the Degen store can be redeemed in exchange for tokens. For every item you redeem, the item number * 2000 tokens get burnt /deducted from the total supply.
+In this module submission, I have created a smart contract which has all the ERC20 functionalities and an additional redeem function so that the items in the Degen store can be redeemed in exchange for tokens and a double mint function which mints double the amount entered if the balance is between 500-1000 tokens. For every item you redeem, the item number * 250 tokens get burnt /deducted from the total supply.
 
 ## Getting Started
 
